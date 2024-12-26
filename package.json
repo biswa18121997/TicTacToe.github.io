@@ -1,0 +1,11 @@
+{
+  "name": "tictactoe.github.io",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./Tic_Tac_Toe_input.css -o ./Tic_Tac_Toe_output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
