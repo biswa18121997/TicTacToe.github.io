@@ -562,32 +562,24 @@ video {
   display: grid;
 }
 
-.h-\[100vh\] {
-  height: 100vh;
-}
-
-.h-4\/5 {
-  height: 80%;
-}
-
 .h-3\/5 {
   height: 60%;
+}
+
+.h-\[100vh\] {
+  height: 100vh;
 }
 
 .h-full {
   height: 100%;
 }
 
-.w-\[100vw\] {
-  width: 100vw;
-}
-
-.w-4\/5 {
-  width: 80%;
-}
-
 .w-3\/5 {
   width: 60%;
+}
+
+.w-\[100vw\] {
+  width: 100vw;
 }
 
 .w-full {
